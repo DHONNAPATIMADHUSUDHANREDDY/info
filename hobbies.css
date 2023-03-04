@@ -1,0 +1,17 @@
+body{
+/*background-image: url('photos/hobi.gif');*/
+background-image: url('https://i.pinimg.com/originals/66/31/e1/6631e19e7b710b21217f4a6076bf3056.gif');
+background-size: contain;
+height:100vh;
+
+
+}
+.row{
+  text-align:center;
+
+}
+.md{
+  font-family: 'Merriweather', serif;
+color:#fff;
+  text-align: center;
+}

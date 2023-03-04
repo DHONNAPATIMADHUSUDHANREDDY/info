@@ -1,0 +1,29 @@
+
+
+body {
+  background-color:#282846;
+
+}
+.im{
+
+  height:300px;
+  border-radius: 15%;
+}
+.im2{
+
+  height:300px;
+  border-radius: 100%;
+
+}
+.var{
+  font-family: 'Dancing Script', cursive;
+color:#FFB830;
+
+font-size: 28px;
+}
+.tab{
+  text-align: center;
+  margin-top: 12%;
+
+
+}

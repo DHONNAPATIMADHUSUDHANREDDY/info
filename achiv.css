@@ -1,0 +1,25 @@
+.carousel-item{
+  width:30em;
+  height:350px;
+
+}
+
+.ms{
+  margin-top:150px;
+}
+.acr{
+  padding-bottom: 60px;
+  line-height: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color:#fff;
+}
+.acr1{
+  padding-bottom: 60px;
+  line-height: 40px;
+font-family: 'Dancing Script', cursive;
+
+  font-size: 40px;
+  color:#fff;
+}

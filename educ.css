@@ -1,0 +1,48 @@
+body{
+
+  background-image: url('photos/board.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+
+}
+
+.cen{
+  text-align: center;
+  margin:50px;
+}
+.cen{
+  margin-top: 75px;
+  margin-bottom: 750px;
+}
+hr{
+  width: 20%  ;
+border-color:#0A2647;
+text-align: center;
+margin-top: 50px;
+}
+.pr{
+  color:#FCE22A;
+  font-family: 'Lora', serif;
+  padding-bottom:20px;
+  padding-top: 20px;
+}
+.pr2{
+  font-family: 'Montserrat', sans-serif;
+  color:#fff;
+  padding-bottom:20px;
+  padding-top: 20px;
+}
+.sp{
+  font-family: 'Open Sans', sans-serif; ;
+  color:#FF0032;
+  font-weight: bold;
+  line-height: 35px;
+}
+.qu{
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+  text-align: center;
+  padding-top:50px;
+  color:#39B5E0;
+}

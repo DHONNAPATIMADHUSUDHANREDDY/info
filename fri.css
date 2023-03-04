@@ -1,0 +1,42 @@
+
+.carousel-item{
+text-align:center;
+
+
+}
+.poo{
+
+  text-align: center;
+
+
+}
+
+.carousel-item{
+  width:40em;
+  height:450px;
+
+
+}
+.carousel-inner{
+background-image: url('photos/but.gif');
+
+
+}
+
+.qo{
+    font-family: 'Dancing Script', cursive;
+    color:#fff;
+    margin-top: 70px;
+    font-weight: normal;
+    font-size: 40px;
+}
+
+/*
+.carousel-inner{
+
+background-image: url('photos/hea.gif');
+background-repeat: no-repeat;
+background-size: cover;
+height:100vh;
+}
+**/

@@ -1,0 +1,70 @@
+.body{
+  margin: 0;
+
+
+}
+
+.pad{
+  margin-right: 20px;
+}
+.mar{
+  margin-right: 40px;
+}
+.bod{
+  background-color: #20262E;
+}
+.na{
+  margin-top: 30px;
+}
+.sr{
+  margin-left: 20px;
+}
+.msr2{
+  border-radius:100%;
+  width:40%;
+
+
+}
+.imp{
+    line-height: 40px;
+  background-color:#20262E;
+  padding-top: 20px;
+
+}
+.msr1{
+  margin-bottom:110px;
+  line-height: 40px;
+  background-color:#20262E;
+
+}
+.msd{
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.msr{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    background-color:#20262E;
+    margin-bottom:110px;
+    line-height: 40px;
+}
+
+.carousel-item{
+height:350px;
+
+}
+.dm{
+
+  width:60%;
+  margin-top:110px;
+height:400px;
+margin-left: 20%;
+
+}
+.fs{
+  font-family: 'Merriweather', serif;
+}
+.fs2{
+  font-family: 'Dosis', sans-serif;
+}
